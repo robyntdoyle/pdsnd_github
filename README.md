@@ -24,3 +24,6 @@ This course does take a considerable amount of time if you have never done this 
 
 ### Inspirations
 I am inspired to learn more Pyhton, especially using the mobile app.
+
+### Conclusion
+Perservere and you will succeed.
