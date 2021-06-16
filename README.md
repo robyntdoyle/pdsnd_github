@@ -16,3 +16,6 @@ README.md
 ### Credits
 I used the notes of the Udacity Python course. If any problems did arise I used mentors through Udacity.
 
+### Lessons Learnt
+Working on highly secured work computers can cause problems not addressed in this course.
+
