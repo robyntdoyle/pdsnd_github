@@ -22,3 +22,5 @@ Working on highly secured work computers can cause problems not addressed in thi
 ### Future Students
 This course does take a considerable amount of time if you have never done this type of programming or used formal version controll before.
 
+### Inspirations
+I am inspired to learn more Pyhton, especially using the mobile app.
