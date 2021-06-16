@@ -19,3 +19,6 @@ I used the notes of the Udacity Python course. If any problems did arise I used 
 ### Lessons Learnt
 Working on highly secured work computers can cause problems not addressed in this course.
 
+### Future Students
+This course does take a considerable amount of time if you have never done this type of programming or used formal version controll before.
+
